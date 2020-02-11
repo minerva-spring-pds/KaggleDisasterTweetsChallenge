@@ -1,4 +1,4 @@
-# KaggleDisasterTweetsChallenge
+# Kaggle Disaster Tweets Challenge
 This repo contains our work on the Kaggle Disaster Tweets challenge.  
 The Kaggle challenge is located here: https://www.kaggle.com/c/nlp-getting-started
 
